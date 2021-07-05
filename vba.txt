@@ -1,0 +1,12 @@
+Sub aaaa()
+'
+' aaaa Macro
+'
+
+'
+    Range("C5").Select
+    ActiveCell.FormulaR1C1 = "222"
+    Range("C6").Select
+    ActiveCell.FormulaR1C1 = "222"
+    Range("C7").Select
+End Sub
